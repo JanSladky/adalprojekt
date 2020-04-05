@@ -2,7 +2,7 @@
 function verify_HTTPS() {
 	return isset($_SERVER['HTTPS']) ? 'https://' : 'http://';
 }
-fdfsdfdsfdsfds fdfds
+
 function get_localpath() {
 	$http_host = $_SERVER['HTTP_HOST'];
 	$uri = $_SERVER['REQUEST_URI'];

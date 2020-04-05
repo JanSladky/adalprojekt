@@ -1,6 +1,6 @@
 
  /*Projetky script*/
-fdsfsdfsdfdsfsd
+
 $('.main-content').find('dd').hide();
 $('.main-content dt').on("click", function () {
 	$(this).next().slideToggle()
