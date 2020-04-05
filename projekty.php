@@ -7,9 +7,7 @@
 
             <dt><h1>Pocitová mapa města</h1></dt>
                 <dd>
-                <p class="justify">
-                    Cesta k participativnímu plánování je trnitá. Tisíc lidí = tisíc chutí, tisíc potřeb a tisíc přání. Na každém názoru však záleží! Proto jsme uspořádali v rámci druhých Žateckých dvorků tvorbu POCITOVÉ MAPY MĚSTA. Výsledky jste v listopadu 2019 diskutovali s občany ve Staré papírně.
-                </p>
+
                 <div class="hashtag">
                     <a href="https://www.instagram.com/explore/tags/pocitovamapa/" target="_blank">#pocitovamapa</a>
                     <a href="https://www.instagram.com/explore/tags/zijmezatecspolecne/" target="_blank">#zijmezatecspolecne</a>
