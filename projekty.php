@@ -1,5 +1,5 @@
 
-<?php include 'partials/header.php' ?>
+<?php include 'path nevim nevim partials/header.php' ?>
 <main>
     <div class="container">
         <div class="main-content">
