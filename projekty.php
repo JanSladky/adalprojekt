@@ -6,6 +6,7 @@
 
 
             <dt><h1>Pocitová mapa města</h1></dt>
+            <h2>jo jo jo jo velká změna</h2>
                 <dd>
                 <p class="justify">
                     Cesta k participativnímu plánování je trnitá. Tisíc lidí = tisíc chutí, tisíc potřeb a tisíc přání. Na každém názoru však záleží! Proto jsme uspořádali v rámci druhých Žateckých dvorků tvorbu POCITOVÉ MAPY MĚSTA. Výsledky jste v listopadu 2019 diskutovali s občany ve Staré papírně.
