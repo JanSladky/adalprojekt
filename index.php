@@ -84,6 +84,17 @@ Rád jezdím na bruslích a zajímá mě pouliční umění. Je mi blízká zác
       </div>
     </div>
   </div>
+
+   <div class="col mb-4">
+    <div class="card">
+      <img src="assets/image/profil/spolecna.gif" class="card-img-top" alt="gif s námi všemi">
+      <div class="card-body">
+
+
+      </div>
+    </div>
+  </div>
+
 </div>
 
 

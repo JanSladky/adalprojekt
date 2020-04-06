@@ -17,8 +17,8 @@
 
                 <p class="justify">14. září 2019 proběhly Žatecké dvorky, kde jsme kromě pocitové mapy iniciovali také diskuzi k tématu Světového dědictví. Důvodem byla zejména různorodost informací, které probíhají médii průběžně od hodnocení v loňském létě, dále pak neúplná interpretace celkového hodnocení odborné organizace ICOMOS, nebo dosud nepřeložená nominační dokumentaci do českého jazyka. To už dohromady dalo kostru debaty do našeho vizionářského dvorku.
 
-                    <a href="https://www.arcgis.com/home/webmap/viewer.html?webmap=4fa33d976112433da40094e3c1d1acbf&extent=11.4472,48.9352,17.0974,51.3011" target="_blank"><b>odkaz zde</b></a> <br>
-                        K diskuzi jsme pozvali člena pracovní skupiny připravující nominační dokumentaci a zároveň odborníka na chmelařské stavební dědictví, Petra Bažanta (PB) z Národního památkového ústavu. Ten nejprve představil výzkum NAKI, který se zabývá dokumentací chmelařského stavebního dědictví
+
+                        K diskuzi jsme pozvali člena pracovní skupiny připravující nominační dokumentaci a zároveň odborníka na chmelařské stavební dědictví, Petra Bažanta (PB) z Národního památkového ústavu. Ten nejprve představil výzkum NAKI, který se zabývá <a href="https://www.arcgis.com/home/webmap/viewer.html?webmap=4fa33d976112433da40094e3c1d1acbf&extent=11.4472,48.9352,17.0974,51.3011" target="_blank"><b>dokumentací chmelařského stavebního dědictví</b></a>
                         a poté odpovídal na všetečné dotazy týkající se UNESCO.
                 </p>
 

@@ -6,8 +6,6 @@
 
 
             <dt><h1>Pocitová mapa města</h1></dt>
-            <h2>jo jo jo jo velká změna</h2>
-
                 <dd>
                 <p class="justify">
                     Cesta k participativnímu plánování je trnitá. Tisíc lidí = tisíc chutí, tisíc potřeb a tisíc přání. Na každém názoru však záleží! Proto jsme uspořádali v rámci druhých Žateckých dvorků tvorbu POCITOVÉ MAPY MĚSTA. Výsledky jste v listopadu 2019 diskutovali s občany ve Staré papírně.
@@ -110,7 +108,7 @@
 
             <!-- Žatecké domy -->
 
-            <dt><h1 class="h1-projekty">Žatecké domy očima studentů Fakulty architektury ČVUT</h1></dt>
+            <dt><h1 class="h1-projekty">výstava Žatecké domy</h1></dt>
 
             <dd>
                 <p class="text-left">KDE: Náměstí Svobody 9, “bývalá spořitelna” <br> KDY: 16. srpna 2020 </p>
@@ -326,7 +324,7 @@
 
 
             <dt><h1 class="h1-projekty">Zachraňme Zlatý chmel!</h1></dt>
-            <dd><h3 class="text-left">projektový den financovaný z programu SmartUp od Nadace O2</h3>
+            <dd>
             <p class="text-left">KDE: bývalé jezírko U Zlatého chmelu <br />KDY: 23. června 2018</p>
             <p class="justify">Náš dosavadní největší projekt se věnuje centru okrsku Žatec - Podměstí.</p>
             <p>SOUTĚŽ BUDE!
