@@ -108,7 +108,7 @@
 
             <!-- Žatecké domy -->
 
-            <dt><h1 class="h1-projekty">výstava Žatecké domy</h1></dt>
+            <dt><h1 class="h1-projekty">Výstava Žatecké domy</h1></dt>
 
             <dd>
                 <p class="text-left">KDE: Náměstí Svobody 9, “bývalá spořitelna” <br> KDY: 16. srpna 2020 </p>

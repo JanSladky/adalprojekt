@@ -178,6 +178,15 @@ header {
 
 }
 
+.social-icon i {
+  color: white;
+  font-size: 35px;
+  padding: 10px;
+}
+.social-icon i:hover {
+  color: #ffc728;
+
+}
 
 
 
