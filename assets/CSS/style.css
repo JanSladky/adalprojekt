@@ -20,6 +20,8 @@ body {
   font-family: 'Montserrat', sans-serif;
   -webkit-font-smoothing: antialiased;
   position: relative;
+  line-height: 32px;
+  letter-spacing: 1px;
 }
 main {
     margin-top: 3em;
@@ -43,7 +45,7 @@ main {
 
   }
   .h1-projekty {
-    margin-top: 3.2em;
+    margin-top: 50px;
 }
 
 
