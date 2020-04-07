@@ -63,12 +63,19 @@
 
   </div>
   <!-- social icons -->
-    <div class="social-icon">
-        <a href="https://www.facebook.com/adalprojekt/" target="_blank"><i class="fab fa-facebook-square"></i></a>
-        <a href="https://www.instagram.com/adalprojekt/?hl=cs" target="_blank"><i class="fab fa-instagram"></i></a>
-        <a href="#"><i class="fab fa-youtube" target="_blank"></i></a>
+
+    <div class="social-icon-container">
+        <div class="social-icon">
+            <a href="https://www.facebook.com/adalprojekt/" target="_blank"><i class="fab fa-facebook-square"></i></a>
+            <a href="https://www.instagram.com/adalprojekt/?hl=cs" target="_blank"><i class="fab fa-instagram"></i></a>
+            <a href="#"><i class="fab fa-youtube" target="_blank"></i></a>
+        </div>
     </div>
+
+
+  </div>
 </nav>
+
 
 
 

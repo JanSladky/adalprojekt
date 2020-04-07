@@ -19,6 +19,7 @@ body {
   color: black;
   font-family: 'Montserrat', sans-serif;
   -webkit-font-smoothing: antialiased;
+  position: relative;
 }
 main {
     margin-top: 3em;
@@ -177,7 +178,17 @@ header {
     text-transform: uppercase;
 
 }
+
 /*social icons*/
+.social-icon-container {
+    width: 200px;
+    margin: 0;
+    position: absolute;
+    height: auto;
+    right: -25px;
+    top: 2px;
+}
+
 .social-icon i {
   color: white;
   font-size: 35px;
@@ -192,12 +203,10 @@ header {
 
 
 /*CONTENT*/
-.container {
-    margin: 100px auto;
-    position: relative;
-}
+
 .main-content {
   text-align: center;
+  margin-top: 100px
 }
 .main-content a {
   color: #000;
