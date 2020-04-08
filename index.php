@@ -5,7 +5,7 @@
 
 <main>
   <div class="logo">
-    <img src="assets/image/logo/panel.png" alt="panel" />
+    <img src="assets/image/logo/panel_n.jpg" alt="panel" />
   </div>
 
 
@@ -21,8 +21,8 @@
           <li>sledovat městské plánování a kriticky vyhodnocovat hospodaření města</li>
         </ul>
         <div class="hashtag">
-        <a href="https://www.instagram.com/explore/tags/adalprojekt/" target="_blank">#adalprojekt</a>
-        <a href="https://www.instagram.com/explore/tags/zijmezatecspolecne/" target="_blank">#zijmezatecspolecne</a>
+        <a href="https://www.instagram.com/explore/tags/adalprojekt/" target="_blank" class="link">#adalprojekt</a>
+        <a href="https://www.instagram.com/explore/tags/zijmezatecspolecne/" target="_blank" class="link">#zijmezatecspolecne</a>
         </div>
       </div>
 

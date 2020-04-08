@@ -11,8 +11,8 @@
                     Cesta k participativnímu plánování je trnitá. Tisíc lidí = tisíc chutí, tisíc potřeb a tisíc přání. Na každém názoru však záleží! Proto jsme uspořádali v rámci druhých Žateckých dvorků tvorbu POCITOVÉ MAPY MĚSTA. Výsledky jste v listopadu 2019 diskutovali s občany ve Staré papírně.
                 </p>
                 <div class="hashtag">
-                    <a href="https://www.instagram.com/explore/tags/pocitovamapa/" target="_blank">#pocitovamapa</a>
-                    <a href="https://www.instagram.com/explore/tags/zijmezatecspolecne/" target="_blank">#zijmezatecspolecne</a>
+                    <a href="https://www.instagram.com/explore/tags/pocitovamapa/" target="_blank" class="link">#pocitovamapa</a>
+                    <a href="https://www.instagram.com/explore/tags/zijmezatecspolecne/" target="_blank" class="link">#zijmezatecspolecne</a>
                 </div>
                 <a href="assets/image/projekty/legenda.jpg" target="_blank"><img src="assets/image/projekty/legenda.jpg" alt="legenda"></a>
 
@@ -239,8 +239,8 @@
                     </li>
                 </ul>
             </div>
-            <a href="https://www.instagram.com/explore/tags/zachranmezlatychmel/" target="_blank">#zachranmezlatychmel</a>
-            <a href="https://www.instagram.com/explore/tags/zijmezatecspolecne/" target="_blank">#zijmezatecspolecne</a>
+            <a href="https://www.instagram.com/explore/tags/zachranmezlatychmel/" target="_blank" class="link">#zachranmezlatychmel</a>
+            <a href="https://www.instagram.com/explore/tags/zijmezatecspolecne/" target="_blank" class="link">#zijmezatecspolecne</a>
             <div class="mezera"></div>
             <img src="assets/image/uklid_chmel.gif" alt="">
             </dd>
@@ -341,7 +341,7 @@
 
 
 
-            <p><a href="https://www.instagram.com/explore/tags/workshopnachmelu/" target="_blank" rel="noopener">#workshopnachmelu</a> <a href="https://www.instagram.com/explore/tags/zlatasedesata/" target="_blank" rel="noopener">#zlatasedesata</a> <a href="https://www.instagram.com/explore/tags/brutalismus/" target="_blank" rel="noopener">#brutalismus</a> <a href="https://www.instagram.com/explore/tags/zatec/" target="_blank" rel="noopener">#zatec</a></p>
+            <p><a href="https://www.instagram.com/explore/tags/workshopnachmelu/" target="_blank" rel="noopener" class="link">#workshopnachmelu</a> <a href="https://www.instagram.com/explore/tags/zlatasedesata/" target="_blank" rel="noopener" class="link">#zlatasedesata</a> <a href="https://www.instagram.com/explore/tags/brutalismus/" target="_blank" rel="noopener" class="link">#brutalismus</a> <a href="https://www.instagram.com/explore/tags/zatec/" target="_blank" rel="noopener" class="link">#zatec</a></p>
 
 
                 <div class="column">
@@ -424,10 +424,10 @@
                 </div></div>
 
             <div class="readmore-chmel">
-            <p>Shrnutí dosavadních aktivit ke stažení <a href="assets/image/download/zatec_podmesti_zprava.pdf" target="_blank" rel="noopener"><b>ZDE</b></a></p>
-            <p>Prezentace ze setkání s komentářem <a href="assets/image/download/prezentace/verejnost_sladovna.pdf" target="_blank" download="" rel="noopener"><b>ZDE</b></a></p>
-            <p>Příspěvek Mgr. Lenky Hájkové <a href="assets/image/download/prezentace/Hajkova_NAKI.pdf" target="_blank" rel="noopener"><b>ZDE</b></a></p>
-            <p>Záznam ze setkání spolku a veřejnosti je dostupný <a href="https://www.youtube.com/playlist?list=PLNtHaQE_FjcXOiUxZ_YKjZBKeDOqKStSB" target="_blank" rel="noopener"><b>ZDE</b></a></p></div>
+            <p>Shrnutí dosavadních aktivit ke stažení <a href="assets/image/download/zatec_podmesti_zprava.pdf" target="_blank" rel="noopener" class="link"><b>ZDE</b></a></p>
+            <p>Prezentace ze setkání s komentářem <a href="assets/image/download/prezentace/verejnost_sladovna.pdf" target="_blank" download="" rel="noopener" class="link"><b>ZDE</b></a></p>
+            <p>Příspěvek Mgr. Lenky Hájkové <a href="assets/image/download/prezentace/Hajkova_NAKI.pdf" target="_blank" rel="noopener" class="link"><b>ZDE</b></a></p>
+            <p>Záznam ze setkání spolku a veřejnosti je dostupný <a href="https://www.youtube.com/playlist?list=PLNtHaQE_FjcXOiUxZ_YKjZBKeDOqKStSB" target="_blank" rel="noopener" class="link"><b>ZDE</b></a></p></div>
 
             <!-----------------------------------------PROJEKTY----------------------------------->
 
@@ -453,9 +453,9 @@
             </p>
         </div>
             <p>
-                <a href="https://www.instagram.com/explore/tags/brownfields/" target="_blank" rel="noopener">#brownfields</a>
-                <a href="https://www.instagram.com/explore/tags/zatec/" target="_blank" rel="noopener">#zatec</a>
-                <a href="https://www.instagram.com/explore/tags/facvut/" target="_blank" rel="noopener">#facvut</a>
+                <a href="https://www.instagram.com/explore/tags/brownfields/" target="_blank" rel="noopener" class="link">#brownfields</a>
+                <a href="https://www.instagram.com/explore/tags/zatec/" target="_blank" rel="noopener" class="link">#zatec</a>
+                <a href="https://www.instagram.com/explore/tags/facvut/" target="_blank" rel="noopener" class="link">#facvut</a>
             </p>
 
                 <div class="mezera"></div>
@@ -526,7 +526,7 @@
             <dd><p class="text-left">KDE: Hotel Alfa Resort, Deštné, Orlické hory <br />KDY: 1. - 3. prosince 2017</p>
             <p class="justify">V září 2017 jsme požádali v grantové výzvě Nadace O2 o finanční podporu našeho pilotního projektu. Tou dobou jsme uvažovali o formátu besedy - moderované akce v interiéru, kde by se diskutovala vybraná témata a později se přešlo v neformální setkání žateckých spolků a organizací. O tomto formátu jsme dost začali váhat po účasti na víkendovém kurzu osobního rozvoje, který pro vybrané týmy zajistila Nadace O2 a Prázdninová škola Lipnice. Kurz nám pomohl lépe konkretizovat náš cíl a nakonec přehodnotit celý projekt (Zachraňme Zlatý chmel), jehož další příběh je popsán výše.</p>
             <p class="justify">Během víkendu proběhl také podpis smlouvy o poskytnutí grantu pro náš projekt.</p>
-            <p><a href="https://www.instagram.com/explore/tags/o2smartup/" target="_blank" rel="noopener">#o2smartup</a> <a href="https://www.instagram.com/explore/tags/adalprojekt/" target="_blank" rel="noopener">#adalprojekt</a></p>
+            <p><a href="https://www.instagram.com/explore/tags/o2smartup/" target="_blank" rel="noopener" class="link">#o2smartup</a> <a href="https://www.instagram.com/explore/tags/adalprojekt/" target="_blank" rel="noopener" class="link">#adalprojekt</a></p>
 
 
                 <div class="column">
@@ -553,7 +553,7 @@
 
 
             <dt><h1 class="h1-projekty">Na začátku byl jeden dotazník…</h1></dt>
-            <dd><p class="justify post-content">Všechny cesty nakonec vedou do Žatce. Ve své diplomové práci, věnované analýze Pražského předměstí, se Eva Pettrichová snažila proniknout do myšlení občanů města. Její dotazník měl prověřit oblíbená místa i slabiny města očima denního uživatele. Celkem tento obsáhlý formulář vyplnilo 410 lidí a pro zájemce o vyplnění je dosud otevřen na následujícím <a href="https://goo.gl/forms/3g26FjGRS055vWsx2" target="_blank" rel="noopener"><b>odkaze, </b></a>nebo je možné ho vyplnit přímo tady.</p>
+            <dd><p class="justify post-content">Všechny cesty nakonec vedou do Žatce. Ve své diplomové práci, věnované analýze Pražského předměstí, se Eva Pettrichová snažila proniknout do myšlení občanů města. Její dotazník měl prověřit oblíbená místa i slabiny města očima denního uživatele. Celkem tento obsáhlý formulář vyplnilo 410 lidí a pro zájemce o vyplnění je dosud otevřen na následujícím <a href="https://goo.gl/forms/3g26FjGRS055vWsx2" target="_blank" rel="noopener" class="link"><b>odkaze, </b></a>nebo je možné ho vyplnit přímo tady.</p>
             <p class="justify">Odezvy z dotazníku byly veskrze kladné a staly se prvním impulzem k otevření našeho hlubšího zájmu o Žatec. Nashromážděné podněty dosud slouží jako strategický programový materiál spolku.</p>
             <div class="iframe-container dotaznik"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfMSKiDua9095xxyJkwRGrcDOUbdvHkDLZxNgDrfldWpvqDlw/viewform?embedded=true" marginheight="0" marginwidth="0" height="500" frameborder="0">Načítání...</iframe></div>
             </dd>
