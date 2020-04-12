@@ -1,8 +1,5 @@
 <?php include 'partials/header.php' ?>
 
-
-
-
 <main>
   <div class="logo">
     <img src="assets/image/logo/panel_n.jpg" alt="panel" />
