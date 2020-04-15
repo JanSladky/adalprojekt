@@ -57,43 +57,43 @@
         <a href="assets/image/image_galerie/tisk/tisk24.JPG" data-lightbox="mygallery" data-title="Žatecký zpravodaj, 2. května 2019" title="Žatecký zpravodaj, 2. května 2019">
         <img src="assets/image/image_galerie/tisk/tisk24_small.JPG" alt="Novinový článek" /> </a>
 
-        <a href="assets/image/image_galerie/tisk/tisk25.jpg" data-lightbox="mygallery" data-title="Žatecké noviny, 19. června 2019" title="Žatecký zpravodaj, 2. května 2019">
+        <a href="assets/image/image_galerie/tisk/tisk25.jpg" data-lightbox="mygallery" data-title="Žatecké noviny, 19. června 2019" title="Žatecké noviny, 19. června 2019">
         <img src="assets/image/image_galerie/tisk/tisk25_small.jpg" alt="Novinový článek" /> </a>
 
-        <a href="assets/image/image_galerie/tisk/tisk26.jpg" data-lightbox="mygallery" data-title=" Žatecký deník, 24. června 2019" title="Žatecký zpravodaj, 2. května 2019">
+        <a href="assets/image/image_galerie/tisk/tisk26.jpg" data-lightbox="mygallery" data-title="Žatecký deník, 24. června 2019" title="Žatecký deník, 24. června 2019">
         <img src="assets/image/image_galerie/tisk/tisk26_small.jpg" alt="Novinový článek" /> </a>
 
-        <a href="assets/image/image_galerie/tisk/tisk27.jpg" data-lightbox="mygallery" data-title=" Žatecké noviny, 26. června 2019" title="Žatecký zpravodaj, 2. května 2019">
+        <a href="assets/image/image_galerie/tisk/tisk27.jpg" data-lightbox="mygallery" data-title="Žatecké noviny, 26. června 2019" title="Žatecké noviny, 26. června 2019">
         <img src="assets/image/image_galerie/tisk/tisk27_small.JPG" alt="Novinový článek" /> </a>
 
-        <a href="assets/image/image_galerie/tisk/tisk28.jpg" data-lightbox="mygallery" data-title="5 plus 2, 9. srpna 2019" title="Žatecký zpravodaj, 2. května 2019">
+        <a href="assets/image/image_galerie/tisk/tisk28.jpg" data-lightbox="mygallery" data-title="5 plus 2, 9. srpna 2019" title="5 plus 2, 9. srpna 2019">
         <img src="assets/image/image_galerie/tisk/tisk28_small.jpg" alt="Novinový článek" /> </a>
 
-        <a href="assets/image/image_galerie/tisk/tisk29.jpg" data-lightbox="mygallery" data-title=" Žatecké noviny, 28. srpna 2019" title="Žatecký zpravodaj, 2. května 2019">
+        <a href="assets/image/image_galerie/tisk/tisk29.jpg" data-lightbox="mygallery" data-title="Žatecké noviny, 28. srpna 2019" title="Žatecké noviny, 28. srpna 2019">
         <img src="assets/image/image_galerie/tisk/tisk29_small.jpg" alt="Novinový článek" /> </a>
 
-        <a href="assets/image/image_galerie/tisk/tisk30.jpg" data-lightbox="mygallery" data-title="Žatecké noviny, 2. října 2019" title="Žatecký zpravodaj, 2. května 2019">
+        <a href="assets/image/image_galerie/tisk/tisk30.jpg" data-lightbox="mygallery" data-title="Žatecké noviny, 2. října 2019" title="Žatecké noviny, 2. října 2019">
         <img src="assets/image/image_galerie/tisk/tisk30_small.jpg" alt="Novinový článek" /> </a>
 
-        <a href="assets/image/image_galerie/tisk/tisk31.jpg" data-lightbox="mygallery" data-title="Žatecké noviny, 27. listopadu 2019" title="Žatecký zpravodaj, 2. května 2019">
+        <a href="assets/image/image_galerie/tisk/tisk31.jpg" data-lightbox="mygallery" data-title="Žatecké noviny, 27. listopadu 2019" title="Žatecké noviny, 27. listopadu 2019">
         <img src="assets/image/image_galerie/tisk/tisk31_small.jpg" alt="Novinový článek" /> </a>
 
-        <a href="assets/image/image_galerie/tisk/tisk32.jpg" data-lightbox="mygallery" data-title=" Žatecký zpravodaj, prosinec 2019" title="Žatecký zpravodaj, 2. května 2019">
+        <a href="assets/image/image_galerie/tisk/tisk32.jpg" data-lightbox="mygallery" data-title="Žatecký zpravodaj, prosinec 2019" title="Žatecký zpravodaj, prosinec 2019">
         <img src="assets/image/image_galerie/tisk/tisk32_small.jpg" alt="Novinový článek" /> </a>
 
-        <a href="assets/image/image_galerie/tisk/tisk33.jpg" data-lightbox="mygallery" data-title="Žatecké noviny, 27. prosince 2019" title="Žatecký zpravodaj, 2. května 2019">
+        <a href="assets/image/image_galerie/tisk/tisk33.jpg" data-lightbox="mygallery" data-title="Žatecké noviny, 27. prosince 2019" title="Žatecké noviny, 27. prosince 2019">
         <img src="assets/image/image_galerie/tisk/tisk33_small.jpg" alt="Novinový článek" /> </a>
 
-        <a href="assets/image/image_galerie/tisk/tisk34.jpg" data-lightbox="mygallery" data-title=" Žatecké noviny, 15. ledna 2020" title="Žatecký zpravodaj, 2. května 2019">
+        <a href="assets/image/image_galerie/tisk/tisk34.jpg" data-lightbox="mygallery" data-title="Žatecké noviny, 15. ledna 2020" title="Žatecké noviny, 15. ledna 2020">
         <img src="assets/image/image_galerie/tisk/tisk34_small.jpg" alt="Novinový článek" /> </a>
 
-        <a href="assets/image/image_galerie/tisk/tisk35.jpg" data-lightbox="mygallery" data-title="Žatecké noviny, 22. ledna 2020" title="Žatecký zpravodaj, 2. května 2019">
+        <a href="assets/image/image_galerie/tisk/tisk35.jpg" data-lightbox="mygallery" data-title="Žatecké noviny, 22. ledna 2020" title="Žatecké noviny, 22. ledna 2020">
         <img src="assets/image/image_galerie/tisk/tisk35_small.jpg" alt="Novinový článek" /> </a>
 
-        <a href="assets/image/image_galerie/tisk/tisk36.jpg" data-lightbox="mygallery" data-title=" Žatecké noviny, 5. února 2020" title="Žatecký zpravodaj, 2. května 2019">
+        <a href="assets/image/image_galerie/tisk/tisk36.jpg" data-lightbox="mygallery" data-title="Žatecké noviny, 5. února 2020" title="Žatecké noviny, 5. února 2020">
         <img src="assets/image/image_galerie/tisk/tisk36_small.jpg" alt="Novinový článek" /> </a>
 
-        <a href="assets/image/image_galerie/tisk/tisk37.jpg" data-lightbox="mygallery" data-title="Žatecké noviny, 19. února 2020" title="Žatecký zpravodaj, 2. května 2019">
+        <a href="assets/image/image_galerie/tisk/tisk37.jpg" data-lightbox="mygallery" data-title="Žatecké noviny, 19. února 2020" title="Žatecké noviny, 19. února 2020">
         <img src="assets/image/image_galerie/tisk/tisk37_small.jpg" alt="Novinový článek" /> </a>
 
     </div>
