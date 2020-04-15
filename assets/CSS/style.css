@@ -298,6 +298,7 @@ footer .container {
   display: flex;
   -ms-flex-wrap: wrap;
   flex-wrap: wrap;
+  justify-content: center;
 }
 .gallery a {
   max-width: 20%;
