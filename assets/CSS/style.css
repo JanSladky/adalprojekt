@@ -28,12 +28,23 @@ body {
   }
 }
 main {
+
   margin-top: 3em;
 }
 
 .logo {
-  margin-top: 4.6em;
   display: none;
+}
+
+
+
+img {
+  max-width: 100%;
+  height: auto;
+  vertical-align: middle;
+  margin-top: 20px;
+  margin-bottom: 20px;
+
 }
 
 *,
@@ -42,18 +53,29 @@ main {
   -webkit-box-sizing: inherit;
   box-sizing: inherit;
 }
-img {
-  max-width: 100%;
-  height: auto;
-  vertical-align: middle;
-}
+
 .h1-projekty {
   margin-top: 50px;
+}
+@media screen and (max-width: 991px) {
+  h1 {
+    font-size: 28px;
+  }
+}
+
+h2 {
+  font-size: 25px;
+  margin-top: 60px;
+  margin-bottom: 20px;
+}
+.quote {
+  font-style: italic;
 }
 
 .hashtag {
   margin-bottom: 10px;
   display: inline-block;
+  margin-right: 15px;
 }
 .main-content dt h1 {
   cursor: pointer;
@@ -62,6 +84,8 @@ img {
 
 a {
   text-decoration: none;
+  display: inline-block;
+  word-break: break-all;
 }
 .justify {
   text-align: justify;
@@ -197,10 +221,14 @@ header {
 }
 
 /*CONTENT*/
-
+.container {
+   max-width: 900px;
+}
 .main-content {
   text-align: center;
-  margin-top: 100px;
+  margin-top: 60px;
+  display: none;
+
 }
 .main-content a {
   color: #000;
@@ -217,10 +245,13 @@ header {
 }
 .link {
   font-weight: bold;
+
+}
+.link-source {
+  margin-top: 10px;
 }
 .link:hover {
   color: #555;
-
   border-radius: 6px;
 }
 .link a {
@@ -231,7 +262,9 @@ header {
 .logo {
   display: flex;
   justify-content: center;
+
 }
+
 .img2 {
   display: none;
 }

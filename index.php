@@ -17,8 +17,8 @@
           <li>sledovat městské plánování a kriticky vyhodnocovat hospodaření města</li>
         </ul>
         <div class="hashtag">
-          <a href="https://www.instagram.com/explore/tags/adalprojekt/" target="_blank" class="link">#adalprojekt</a>
-          <a href="https://www.instagram.com/explore/tags/zijmezatecspolecne/" target="_blank" class="link">#zijmezatecspolecne</a>
+          <a href="https://www.instagram.com/explore/tags/adalprojekt/" target="_blank" class="link hashtag">#adalprojekt</a>
+          <a href="https://www.instagram.com/explore/tags/zijmezatecspolecne/" target="_blank" class="link hashtag">#zijmezatecspolecne</a>
         </div>
       </div>
 
