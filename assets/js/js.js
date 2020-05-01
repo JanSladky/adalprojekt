@@ -33,19 +33,3 @@ card.on('click', function() {
 	findCardText.stop().slideToggle(500);
 
 });
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

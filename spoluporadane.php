@@ -1,5 +1,5 @@
 <?php include 'partials/header.php' ?>
-
+<main>
 <div class="container">
 <div class="main-content">
 
@@ -8,9 +8,9 @@
 <dd><p class="text-left">KDE: Žatec <br> KDY: 22. dubna 2019</p>
 <p class="text-left">POŘADATEL: Městské divadlo Žatec</p>
 
-<a href="https://www.instagram.com/explore/tags/mdz_vystava2019/" target="_blank" class="link">#mdz_vystava2019</a>
-<a href="https://www.instagram.com/explore/tags/adalvystavuje/" target="_blank" class="link">#adalvystavuje</a>
-<a href="https://www.instagram.com/explore/tags/muzeumzatec/" target="_blank" class="link">#muzeumzatec</a>
+<a href="https://www.instagram.com/explore/tags/mdz_vystava2019/" target="_blank" class="link hashtag">#mdz_vystava2019</a>
+<a href="https://www.instagram.com/explore/tags/adalvystavuje/" target="_blank" class="link hashtag">#adalvystavuje</a>
+<a href="https://www.instagram.com/explore/tags/muzeumzatec/" target="_blank" class="link hashtag">#muzeumzatec</a>
 <div class="mezera"></div>
 
 
@@ -206,7 +206,7 @@ Ve druhém patře divadelního foyer jsme vytvořili a nainstalovali výstavu do
 
 
 
-<p><a href="https://www.instagram.com/explore/tags/denarchitektury2018/" target="_blank" rel="noopener" class="link">#denarchitektury2018</a></p>
+<p><a href="https://www.instagram.com/explore/tags/denarchitektury2018/" target="_blank" rel="noopener" class="link hashtag">#denarchitektury2018</a></p>
 <p class="text-left"></p>
 <p>Pro stažení mapy klikněte na obrázek</p>
 <div class="row">
@@ -221,7 +221,7 @@ Ve druhém patře divadelního foyer jsme vytvořili a nainstalovali výstavu do
 <dd><p class="text-left">KDE: Komunitní dvorek ve Dvořákově ulici <br />KDY: 15. září 2018</p>
 <p class="text-left">POŘADATEL: Regionální muzeum K.A.Polánka</p>
 <p class="justify">Po vzoru chebských a kladenských otevřených dvorků se letošní EHD, neboli Dny evropského dědictví odehrály netradičním způsobem. Akce spočívala v otevření šestnácti soukromých dvorků v historickém jádru města, které si návštěvníci mohli projít a zažít v nich tématické aktivity. Smyslem této události bylo zažít město jinak, nahlédnout do jeho jádra, potkat se s lidmi a oživit tak centrum, jehož velkou slabinou je poslední roky právě vylidňování. </p>
-<p><a href="https://www.instagram.com/explore/tags/zateckedvorky/" target="_blank" rel="noopener" class="link">#zateckedvorky</a></p>
+<p><a href="https://www.instagram.com/explore/tags/zateckedvorky/" target="_blank" rel="noopener" class="link hashtag">#zateckedvorky</a></p>
 
     <div class="column">
         <div class="gallery">
@@ -255,7 +255,7 @@ Ve druhém patře divadelního foyer jsme vytvořili a nainstalovali výstavu do
 <dd><p class="text-left">KDE: alegorický průvod z náměstí Prokopa Malého k pivovaru <br />KDY: 12. května 2018</p>
 <p class="text-left">POŘADATEL: Chmelobrana, město Žatec</p>
 <p class="justify">Tradiční akce pořádaná na začátku května k oslavě zahájení chmelařské sezóny. Spolek využil tradice tohoto svátku a z alegorického vozu symbolickými hesly se seznamoval s občany města a zároveň pozval veřejnost na nadcházející projektový den.</p>
-<p><a href="https://www.instagram.com/explore/tags/chmelfest2018/" target="_blank" rel="noopener" class="link">#chmelfest2018</a></p>
+<p><a href="https://www.instagram.com/explore/tags/chmelfest2018/" target="_blank" rel="noopener" class="link hashtag">#chmelfest2018</a></p>
 
   <div class="column">
     <div class="gallery">
@@ -284,4 +284,5 @@ Ve druhém patře divadelního foyer jsme vytvořili a nainstalovali výstavu do
 </dd>
 </div>
 </div>
+</main>
 <?php include 'partials/footer.php' ?>

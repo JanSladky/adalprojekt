@@ -1,5 +1,6 @@
 <?php include 'partials/header.php' ?>
 <meta charset="utf-8">
+<main>
 <div class="container">
     <div class="main-content">
         <h1>Komunitn&iacute; kalend&aacute;ř</h1>
@@ -14,5 +15,6 @@
         <p>Jak přidat do Va&scaron;eho zař&iacute;zen&iacute; si přečtete <a href="image/download/kalendar_postup.pdf" target="_blank" rel="noopener" download=""><strong>ZDE</strong></a></p>
     </div>
 </div>
+</main>
 
 <?php include 'partials/footer.php' ?>

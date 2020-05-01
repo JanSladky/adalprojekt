@@ -11,13 +11,13 @@
                     Cesta k participativnímu plánování je trnitá. Tisíc lidí = tisíc chutí, tisíc potřeb a tisíc přání. Na každém názoru však záleží! Proto jsme uspořádali v rámci druhých Žateckých dvorků tvorbu POCITOVÉ MAPY MĚSTA. Výsledky jste v listopadu 2019 diskutovali s občany ve Staré papírně.
                 </p>
                 <div class="hashtag">
-                    <a href="https://www.instagram.com/explore/tags/pocitovamapa/" target="_blank" class="link">#pocitovamapa</a>
-                    <a href="https://www.instagram.com/explore/tags/zijmezatecspolecne/" target="_blank" class="link">#zijmezatecspolecne</a>
+                    <a href="https://www.instagram.com/explore/tags/pocitovamapa/" target="_blank" class="link hashtag">#pocitovamapa</a>
+                    <a href="https://www.instagram.com/explore/tags/zijmezatecspolecne/" target="_blank" class="link hashtag">#zijmezatecspolecne</a>
                 </div>
                 <a href="assets/image/projekty/legenda.jpg" target="_blank"><img src="assets/image/projekty/legenda.jpg" alt="legenda"></a>
 
 
-                <button class="readmore-pocitovka-btn" onclick="if ($('.readmore-pocitovka-btn').text() == 'více') {$('.readmore-pocitovka-btn').text('méně'); $('.readmore-pocitovka').slideDown(); }else {$('.readmore-pocitovka-btn').text('více'); $('.readmore-pocitovka').slideUp();}">více</button>
+                <button class="readmore-pocitovka-btn btn btn-dark" onclick="if ($('.readmore-pocitovka-btn').text() == 'více') {$('.readmore-pocitovka-btn').text('méně'); $('.readmore-pocitovka').slideDown(); }else {$('.readmore-pocitovka-btn').text('více'); $('.readmore-pocitovka').slideUp();}">více</button>
 
 
 
@@ -224,7 +224,7 @@
 
             <p class="justify">Ku příležitosti prvního výročí projektového dne u Zlatého chmelu jsme se rozhodli uspořádat novodobou akci “Z” - dobrovolnický úklid v našem zájmovém území. Pracovní pomůcky zajistil Odbor místního hospodářství a majetku.</p>
             <p style="text-align: left;">Na co jsme při úklidu narazili? </p>
-            <button class="readmore-uklid-btn" onclick="if ($('.readmore-uklid-btn').text() == 'více') {$('.readmore-uklid-btn').text('méně'); $('.readmore-uklid').slideDown(); }else {$('.readmore-uklid-btn').text('více'); $('.readmore-uklid').slideUp();}">více</button> <br>
+            <button class="readmore-uklid-btn btn btn-dark" onclick="if ($('.readmore-uklid-btn').text() == 'více') {$('.readmore-uklid-btn').text('méně'); $('.readmore-uklid').slideDown(); }else {$('.readmore-uklid-btn').text('více'); $('.readmore-uklid').slideUp();}">více</button> <br>
             <div class="mezera"></div>
             <div class="readmore-uklid">
                 <ul style="text-align: left;">
@@ -239,8 +239,8 @@
                     </li>
                 </ul>
             </div>
-            <a href="https://www.instagram.com/explore/tags/zachranmezlatychmel/" target="_blank" class="link">#zachranmezlatychmel</a>
-            <a href="https://www.instagram.com/explore/tags/zijmezatecspolecne/" target="_blank" class="link">#zijmezatecspolecne</a>
+            <a href="https://www.instagram.com/explore/tags/zachranmezlatychmel/" target="_blank" class="link hashtag">#zachranmezlatychmel</a>
+            <a href="https://www.instagram.com/explore/tags/zijmezatecspolecne/" target="_blank" class="link hashtag">#zijmezatecspolecne</a>
             <div class="mezera"></div>
             <img src="assets/image/uklid_chmel.gif" alt="">
             </dd>
@@ -331,7 +331,7 @@
                 Dokázali jsme to!!! Zastupitelstvo města Žatce schválilo na svém jednání 20. června 2019 částku 750 000,- Kč na architektonickou soutěž na prostor před Zlatým chmelem.
             </p>
 
-            <button class="readmore-chmel-btn" onclick="if ($('.readmore-chmel-btn').text() == 'více') {$('.readmore-chmel-btn').text('méně'); $('.readmore-chmel').slideDown(); }else {$('.readmore-chmel-btn').text('více'); $('.readmore-chmel').slideUp();}">více</button>
+            <button class="readmore-chmel-btn btn btn-dark" onclick="if ($('.readmore-chmel-btn').text() == 'více') {$('.readmore-chmel-btn').text('méně'); $('.readmore-chmel').slideDown(); }else {$('.readmore-chmel-btn').text('více'); $('.readmore-chmel').slideUp();}">více</button>
 
 
 
@@ -341,7 +341,7 @@
 
 
 
-            <p><a href="https://www.instagram.com/explore/tags/workshopnachmelu/" target="_blank" rel="noopener" class="link">#workshopnachmelu</a> <a href="https://www.instagram.com/explore/tags/zlatasedesata/" target="_blank" rel="noopener" class="link">#zlatasedesata</a> <a href="https://www.instagram.com/explore/tags/brutalismus/" target="_blank" rel="noopener" class="link">#brutalismus</a> <a href="https://www.instagram.com/explore/tags/zatec/" target="_blank" rel="noopener" class="link">#zatec</a></p>
+            <p><a href="https://www.instagram.com/explore/tags/workshopnachmelu/" target="_blank" rel="noopener" class="link hashtag">#workshopnachmelu</a> <a href="https://www.instagram.com/explore/tags/zlatasedesata/" target="_blank" rel="noopener" class="link hashtag">#zlatasedesata</a> <a href="https://www.instagram.com/explore/tags/brutalismus/" target="_blank" rel="noopener" class="link">#brutalismus</a> <a href="https://www.instagram.com/explore/tags/zatec/" target="_blank" rel="noopener" class="link hashtag">#zatec</a></p>
 
 
                 <div class="column">
@@ -445,7 +445,7 @@
 
 
             <p class="justify">Nová iniciativa s názvem A dál? pozvala v září 2017 do Žatce studenty Fakulty architektury.</p>
-                <button class="readmore-stu-btn" onclick="if ($('.readmore-stu-btn').text() == 'více') {$('.readmore-stu-btn').text('méně'); $('.readmore-stu').slideDown(); }else {$('.readmore-stu-btn').text('více'); $('.readmore-stu').slideUp();}">více</button></p>
+                <button class="readmore-stu-btn btn btn-dark" onclick="if ($('.readmore-stu-btn').text() == 'více') {$('.readmore-stu-btn').text('méně'); $('.readmore-stu').slideDown(); }else {$('.readmore-stu-btn').text('více'); $('.readmore-stu').slideUp();}">více</button></p>
                 <div class="readmore-stu">
                     <p class="justify"> 17 studentů řešilo několik lokalit na Pražském předměstí, ti starší se zabývali areálem letního kina a parkoviště u Lidlu. V polovině října proběhlo intenzivní soustředění, kdy mladí architekti pracovali na prvních konceptech ve Staré Papírně. Během zimního semestru se konaly také dvě prezentace na pražské fakultě, kterých se zúčastnili i někteří zástupci města.</p>
 
@@ -453,9 +453,9 @@
             </p>
         </div>
             <p>
-                <a href="https://www.instagram.com/explore/tags/brownfields/" target="_blank" rel="noopener" class="link">#brownfields</a>
-                <a href="https://www.instagram.com/explore/tags/zatec/" target="_blank" rel="noopener" class="link">#zatec</a>
-                <a href="https://www.instagram.com/explore/tags/facvut/" target="_blank" rel="noopener" class="link">#facvut</a>
+                <a href="https://www.instagram.com/explore/tags/brownfields/" target="_blank" rel="noopener" class="link hashtag">#brownfields</a>
+                <a href="https://www.instagram.com/explore/tags/zatec/" target="_blank" rel="noopener" class="link hashtag">#zatec</a>
+                <a href="https://www.instagram.com/explore/tags/facvut/" target="_blank" rel="noopener" class="link hashtag">#facvut</a>
             </p>
 
                 <div class="mezera"></div>
@@ -526,7 +526,7 @@
             <dd><p class="text-left">KDE: Hotel Alfa Resort, Deštné, Orlické hory <br />KDY: 1. - 3. prosince 2017</p>
             <p class="justify">V září 2017 jsme požádali v grantové výzvě Nadace O2 o finanční podporu našeho pilotního projektu. Tou dobou jsme uvažovali o formátu besedy - moderované akce v interiéru, kde by se diskutovala vybraná témata a později se přešlo v neformální setkání žateckých spolků a organizací. O tomto formátu jsme dost začali váhat po účasti na víkendovém kurzu osobního rozvoje, který pro vybrané týmy zajistila Nadace O2 a Prázdninová škola Lipnice. Kurz nám pomohl lépe konkretizovat náš cíl a nakonec přehodnotit celý projekt (Zachraňme Zlatý chmel), jehož další příběh je popsán výše.</p>
             <p class="justify">Během víkendu proběhl také podpis smlouvy o poskytnutí grantu pro náš projekt.</p>
-            <p><a href="https://www.instagram.com/explore/tags/o2smartup/" target="_blank" rel="noopener" class="link">#o2smartup</a> <a href="https://www.instagram.com/explore/tags/adalprojekt/" target="_blank" rel="noopener" class="link">#adalprojekt</a></p>
+            <p><a href="https://www.instagram.com/explore/tags/o2smartup/" target="_blank" rel="noopener" class="link hashtag">#o2smartup</a> <a href="https://www.instagram.com/explore/tags/adalprojekt/" target="_blank" rel="noopener" class="link hashtag">#adalprojekt</a></p>
 
 
                 <div class="column">

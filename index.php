@@ -1,10 +1,9 @@
 <?php include 'partials/header.php' ?>
-
 <main>
   <div class="logo">
-    <img src="assets/image/logo/panel_n.jpg" alt="panel" />
+    <img src="assets/image/logo/headstranka_desktop.png" class="img1" alt="panel" />
+    <img src="assets/image/logo/headstranka_mobilni.png" class="img2" alt="mobilni verze loga">
   </div>
-
 
   <div class="container">
     <div class="main-content">
@@ -18,8 +17,8 @@
           <li>sledovat městské plánování a kriticky vyhodnocovat hospodaření města</li>
         </ul>
         <div class="hashtag">
-        <a href="https://www.instagram.com/explore/tags/adalprojekt/" target="_blank" class="link">#adalprojekt</a>
-        <a href="https://www.instagram.com/explore/tags/zijmezatecspolecne/" target="_blank" class="link">#zijmezatecspolecne</a>
+          <a href="https://www.instagram.com/explore/tags/adalprojekt/" target="_blank" class="link hashtag">#adalprojekt</a>
+          <a href="https://www.instagram.com/explore/tags/zijmezatecspolecne/" target="_blank" class="link hashtag">#zijmezatecspolecne</a>
         </div>
       </div>
 
@@ -28,13 +27,15 @@
     <h2>Členové A dál?</h2>
 
     <div class="row row-cols-1 row-cols-md-3 members">
-  <div class="col mb-4">
-    <div class="card">
-      <img src="assets/image/profil/johny.jpg" class="card-img-top" alt="...">
-      <div class="card-body">
-        <h5 class="card-title">Jan Klíma</h5>
+    <div class="col mb-4">
+      <div class="card">
+        <img src="assets/image/profil/johny.jpg" class="card-img-top" alt="...">
+        <div class="card-body">
+          <h5 class="card-title">Jan Klíma</h5>
         <p class="card-text">Johny <br>
-<em>"Vystudoval jsem právo ve veřejné správě. Už šestým rokem pracuji v Žatci na radnici, kde projednávám přestupky. Pro spolek obstarávám komunikaci s představiteli města i s úředníky a mám poslední slovo v právních záležitostech. Jinak jsem v podstatě takový společenský ninja. <br> A rád papám."</em></p>
+          <em>"Vystudoval jsem právo ve veřejné správě. Už šestým rokem pracuji v Žatci na radnici, kde projednávám přestupky. Pro spolek obstarávám komunikaci s představiteli města i s úředníky a mám poslední slovo v právních záležitostech. Jinak jsem v podstatě takový společenský ninja. <br> A rád papám."
+          </em>
+        </p>
       </div>
     </div>
   </div>
@@ -93,11 +94,6 @@ Rád jezdím na bruslích a zajímá mě pouliční umění. Je mi blízká zác
   </div>
 
 </div>
-
-
-
-
-
       <div class="flex-container">
         <div class="cowork">
           <h3>Spolupracujeme s:</h3>

@@ -24,7 +24,7 @@ define('APP_PATH', pathinfo(__DIR__, PATHINFO_DIRNAME) . "" . pathinfo(__DIR__, 
 
 //database
 // If you installed via composer, just use this code to require autoloader on the top of your projects.
-require 'vendor/autoload.php';
+require '_inc/vendor/autoload.php';
 
 // Using Medoo namespace
 use Medoo\Medoo;
