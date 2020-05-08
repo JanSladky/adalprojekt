@@ -1,4 +1,4 @@
-<?php include '../_inc/config.php' ?>
+<?php include '_inc/config.php' ?>
 <!-- <?php
         $page_name = basename($_SERVER['SCRIPT_NAME'], '.php');
 
@@ -61,9 +61,7 @@
                     }
 
                     ?>
-
                 </ul>
-
             </div>
             <!-- social icons -->
 

@@ -105,7 +105,7 @@
 
 <p class="justify">Našemu spolku se dostalo jedinečné příležitosti prezentovat se na večeru s názvem Jak se dostat z bubliny? pořádaném organizací Neziskovky.cz. Na deseti snímcích časovaných po 20 vteřinách (formát mesh - up) za náš projekt promluvila Eva, která přítomným přiblížila rozsah našeho působení - orientaci na veřejný prostor a uplatňování základních principů městského komunitního plánování.</p>
 <div style="margin: 10px 0 10px 0;">
-    <a href="https://slideslive.com/38911081/a-dal" target="_blank">Odkaz na prezentaci</a>
+    <a href="https://slideslive.com/38911081/a-dal" class="link" target="_blank">Odkaz na prezentaci</a>
 </div>
 
 
