@@ -18,7 +18,7 @@
     </script>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title></title>
+    <title>A dál? / </title>
     <meta name="description" content="Stránky spolku A dál?">
     <meta name="googlebot" content="Stránky spolku A dál?">
     <meta name="Keywords" content="A dál?, adalprojekt, komunitní akce, komunitní setkání, Žatec, Ústecký kraj, Žatecký spolek, žijme Žatec společně, Žatci, Žatecko
