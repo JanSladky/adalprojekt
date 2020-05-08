@@ -1,4 +1,6 @@
-<?php include '../_inc/config.php' ?>
+
+<?php include 'partials/arrays.php' ?>
+<?php include '_inc/config.php' ?>
 <!-- <?php
         $page_name = basename($_SERVER['SCRIPT_NAME'], '.php');
 
@@ -48,7 +50,13 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarText">
                 <ul class="navbar-nav mr-auto menu navigation">
-                    <?php
+                    <?php include 'partials/nav.php' ?>
+
+
+
+
+                   <!-- PŮVODNÍ NAVBAR-->
+                    <!-- <?php
                     $sites = ['home', 'pripravovane', 'projekty', 'spoluporadane', 'kalendar', 'media', 'blog'];
                     $sorted = array_keys(array_merge(array_flip(['home']), array_flip($sites)));
 
@@ -60,7 +68,7 @@
                         }
                     }
 
-                    ?>
+                    ?> -->
 
                 </ul>
 
