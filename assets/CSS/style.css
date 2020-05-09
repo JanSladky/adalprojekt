@@ -26,6 +26,9 @@ body {
     letter-spacing: 0px;
     line-height: 28px;
   }
+  .navbar-toggler {
+    margin-left: 5px;
+  }
 }
 main {
   margin-top: 3em;
@@ -169,7 +172,7 @@ header {
 }
 
 .navigation {
-  
+
   padding: 10px;
   margin-left: 0.5em;
 }
