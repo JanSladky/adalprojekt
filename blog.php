@@ -27,7 +27,7 @@
                         <p class="justify">Město, které vypíše soutěž, je považováno za progresivně smýšlející. V kombinaci s následnou realizací pak může přinést nejen mediální pozornost městu a jeho vedení, ale také typicky zaměřený turismus (takhle to mají třeba v <a href="https://lam.litomysl.cz/" target="_blank"><b>Litomyšli</b></a>).</p>
                     </li>
                 </ol>
-                <img src="assets/image/blog/chmel_zrybnika.jpg" title="Současný stav" alt="chmel z rybníka">
+                <img src="<?php echo $base_url; ?>/assets/image/blog/chmel_zrybnika.jpg" title="Současný stav" alt="chmel z rybníka">
                             <!-- (obrázek) -->
                 <p class="justify">Soutěž o návrh na revitalizaci Havlíčkova náměstí je anonymní veřejná jednofázová a projektová. To znamená, že přihlásit se může kdokoliv v souladu s podmínkami soutěže (anonymnost je provedena očíslováním), jako autor návrhu dokončí projektovou dokumentaci a pomocnou ruku přikládá průběžně až do dokončení realizace. V ideálním případě.
                 </p>
@@ -65,7 +65,7 @@
                 <p class="justify"> <span class="quote">"Boural se starý Most, bylo období těžkých mlh, inverzí, zvyšovala se těžba uhlí v pánvi, mizely obce, kostelíčky, boží muka. Rozhodli jsme se: zahradní úpravy provedeme tvarově plastické, sochařské, obložené lomovým kamenem, brutalistní změny návrhu terénu. Návrhům jsme věnovali maximální pozornost, schvalování v krajské umělecké komisi, hodnocení autorských děl. Byly to naše protesty doby.”</span>  , popisuje dobový kontext autor návrhu, Ing. arch. Vratislav Štelzig. </p>
 
                 <p class="justify"> <span class="quote">“Sluneční náměstí bylo místem, kde se obyvatele sídliště Podměstí mohli potkat se sluncem. Myšlenka byla rozvedena do hry slunce s vodou skrze velkou vodní plochu s vodotrysky, která lákala pohledy jak sedících a okolo chodících lidí, tak děti ke hře ve vodě. Hra se sluncem se také projevila v práci s převýšeným terénem, vedením klikatých cestiček a celkové vytvoření specifických, někde až intimních zákoutí. Stromy, keře a další rostliny byly součástí promyšleného parku - zahrady."</span> </p>
-                <img src="assets/image/blog/chmel_puvodni.jpg" alt="chmel původní" title="Původní stav - archiv Regionální muzeum K. A. Polánka">
+                <img src="<?php echo $base_url; ?>/assets/image/blog/chmel_puvodni.jpg" alt="chmel původní" title="Původní stav - archiv Regionální muzeum K. A. Polánka">
 
                 <!-- (obrázek) -->
                 <ul>
@@ -98,7 +98,7 @@
                 <h2>Zdroje:</h2> <br>
                 <p>
                 <a href="http://zatec.cityupgrade.cz/download/soutezni-podminky.pdf" target="_blank" class="link link-source">http://zatec.cityupgrade.cz/download/soutezni-podminky.pdf</a>
-                    <a href="http://www.iprpraha.cz/uploads/assets/dokumenty/soutezit_se_vyplati.pdf" target="_blank" class="link link-source">http://www.iprpraha.cz/uploads/assets/dokumenty/soutezit_se_vyplati.pdf</a><br>
+                    <a href="http://www.iprpraha.cz/uploads/<?php echo $base_url; ?>/assets/dokumenty/soutezit_se_vyplati.pdf" target="_blank" class="link link-source">http://www.iprpraha.cz/uploads/<?php echo $base_url; ?>/assets/dokumenty/soutezit_se_vyplati.pdf</a><br>
                     <a href="https://www.cka.cz/cs/media/prilohy/soutezni-rad.pdf" target="_blank" class="link link-source">https://www.cka.cz/cs/media/prilohysoutezni-rad.pdf</a>
                 </p>
                 </div>
