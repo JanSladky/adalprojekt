@@ -1,14 +1,16 @@
 <?php include 'config.php' ?>
 <?php include 'arrays.php' ?>
+
 <!-- VYPSÁNÍ NA JAKÉ PODSTRÁNCE JSEM-->
-<?php $page_name = basename($_SERVER['SCRIPT_NAME'], '.php'); ?>
 <?php
 
-if ($page_name == 'index') $page_name = 'domů';
-if ($page_name == 'pripravovane') $page_name = 'připravované';
-if ($page_name == 'spoluporadane') $page_name = 'spolupořádané';
-if ($page_name == 'kalendar') $page_name = 'kalendář';
-if ($page_name == 'media') $page_name = 'média';
+    $page_name = basename($_SERVER['SCRIPT_NAME'], '.php');
+
+    if ($page_name == 'index') $page_name = 'domů';
+    if ($page_name == 'pripravovane') $page_name = 'připravované';
+    if ($page_name == 'spoluporadane') $page_name = 'spolupořádané';
+    if ($page_name == 'kalendar') $page_name = 'kalendář';
+    if ($page_name == 'media') $page_name = 'média';
 
 ?>
 <!DOCTYPE html>
@@ -47,7 +49,7 @@ if ($page_name == 'media') $page_name = 'média';
 
 <body>
     <header>
-        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <nav class="navbar navbar-expand-xl navbar-dark bg-dark">
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>

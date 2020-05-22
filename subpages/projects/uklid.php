@@ -3,7 +3,7 @@
 	<div class="container">
 		<div class="main-content">
 
-			<h1 class="h1-projekty">Úklid u Zlatého chmelu</h1>
+			<h1>Úklid u Zlatého chmelu</h1>
 
 
 				<p class="text-left">KDE: prostor před Zlatým chmelem a KD Moskva<br>

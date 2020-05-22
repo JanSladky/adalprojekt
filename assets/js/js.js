@@ -23,13 +23,17 @@ $(document).ready(function () {
 
 
 /*card members*/
-var card = $('.card'); //tohle je hlavička
-var cardText = $('.card-text');   // toto je obsah
+/*var card = $('.card'); //tohle je hlavička
+var cardText = $('.card-text');*/   // toto je obsah
 
 
-card.on('click', function() {
+/*card.on('click', function() {
 	var findCardText = $(this).find(cardText);
 	cardText.stop().slideUp(500);
 	findCardText.stop().slideToggle(500);
 
-});
+});*/
+
+$(function () {
+	$('[data-toggle="popover"]').popover()
+})

@@ -16,29 +16,33 @@ html {
 }
 body {
   width: 100%;
-  font-size: 120%;
+  font-size: 100%;
   color: black;
   font-family: "Montserrat", sans-serif;
   -webkit-font-smoothing: antialiased;
   position: relative;
-  line-height: 26px;
-  letter-spacing: 1px;
+  line-height: 1.6em;
+  letter-spacing: 0.04em;
 }
 
 main {
-  margin-top: 40px;
+  /*margin-top: 2em;*/
 }
 
 .logo {
   display: none;
+  margin-top: 3.6em;
 }
 
 img {
   max-width: 100%;
   height: auto;
   vertical-align: middle;
-  margin-top: 20px;
-  margin-bottom: 20px;
+
+}
+.img {
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
 }
 
 *,
@@ -48,32 +52,33 @@ img {
   box-sizing: inherit;
 }
 h1 {
-  font-size: 1em; /*28px/28px*/
+  font-size: 2em; /*28px/28px*/
 }
-.h1-projekty {
-  margin-top: 50px;
-}
+
 
 
 h2 {
-  font-size: 25px;
-  margin-top: 60px;
-  margin-bottom: 20px;
+  font-size: 1.5em;
+  margin-top: 4em;
+  margin-bottom: 1em;
+}
+h5 {
+  font-size: 0.83em;
 }
 .quote {
   font-style: italic;
 }
 
 .hashtag {
-  margin-bottom: 10px;
+  margin-bottom: 0.5em;
   display: inline-block;
-  margin-right: 15px;
+  margin-right: 0.5em;
 }
 .main-content {
   text-align: center;
-  margin-top: 60px;
+  margin-top: 5em;
   display: none;
-  padding: 1.5em;
+  /*padding: 1.5em;*/
 }
 .main-content a {
   color: #000;
@@ -111,7 +116,7 @@ strong {
   font-weight: 700;
 }
 .mezera {
-  height: 20px;
+  height: 2em;
 }
 .text-center {
   text-align: center;
@@ -147,9 +152,7 @@ strong {
 }
 
 /*----------------------------------NAVBAR----------------------------------*/
-.navbar {
-  padding: 0;
-}
+
 .menu {
   list-style: none;
   padding-left: 0;
@@ -170,11 +173,15 @@ header {
   background: #000 !important;
 }
 
+.navigation {
+  padding: 0.6em;
+}
+
 .navigation a {
   font-size: 95%;
   color: #fff;
   text-transform: lowercase;
-  padding: 5px;
+  margin-right: 1em;
   text-transform: uppercase;
 }
 
@@ -184,12 +191,10 @@ header {
   text-decoration: none;
 }
 
-.navigation {
-  padding: 10px;
-}
+
 
 .navigation li {
-  margin-right: 5px;
+
   color: #ffc728;
   text-transform: uppercase;
   margin: auto;
@@ -202,26 +207,30 @@ header {
   -webkit-transform: scale(1.1);
   -ms-transform: scale(1.1);
   transform: scale(1.1);
-  -webkit-transition: 0.5s;
-  -o-transition: 0.5s;
-  transition: 0.5s;
+  -webkit-transition: 0.3s;
+  -o-transition: 0.3s;
+  transition: 0.3s;
   text-transform: uppercase;
 }
 
 /*social icons*/
 .social-icon-container {
-  width: 200px;
+  width: 11em;
   margin: 0;
   position: absolute;
   height: auto;
-  right: -25px;
+  right: 0.1em;
   top: 2px;
 }
-
+.social-icon {
+  top: 0.2em;
+  position: relative;
+}
 .social-icon i {
   color: white;
-  font-size: 35px;
-  padding: 10px;
+  font-size: 2.2em;
+  padding: 0.2em;
+
 }
 .social-icon i:hover {
   color: #ffc728;
@@ -229,19 +238,50 @@ header {
 
 /*CONTENT*/
 .project {
-  margin-bottom: 20px;
+  margin-bottom: 1.5em;
   border-radius: 7px;
+  box-shadow: 0 4px 5px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-right: 15px;
+  display: inline-block;
 }
 .project:hover {
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  box-shadow: 0 4px 22px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 .project img {
-
-      margin-top: 0;
-    margin-bottom: 0;
+  object-fit: cover;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.card {
+  max-width: 12em !important;
+}
+.project-img {
+  height: 150px !important;
+}
+.col-project {
+  padding-right: 0;
+  padding-left: 0;
+}
+.row {
+  justify-content: center;
+  margin-right: 0;
+  margin-left: 0;
+}
+.card-title {
+  word-break: break-word;
+  font-size: 1em;
+}
+.index-container {
+  max-width: 900px;
+  padding-right: 0.4em;
+  padding-left: 0.4em;
+  margin: 0 auto;
 }
 .container {
   max-width: 900px;
+  padding-right: 1em;
+  padding-left: 1em;
+  margin: 0 auto;
 }
 
 .link {
@@ -262,31 +302,32 @@ header {
 .logo {
   display: flex;
   justify-content: center;
+
 }
 
 .img2 {
   display: none;
 }
+@media screen and (max-width: 1199px) {
+   .social-icon {
+  top: 0.1em;
+  position: relative;
+}
+}
 @media screen and (max-width: 991px) {
-  .navigation li {
-    padding-top: 12px;
-    padding-bottom: 12px;
+
+  .navigation a {
+    margin-bottom: 1em;
+    margin-right: 0;
   }
-  .navbar {
-    padding-top: 10px;
-    padding-bottom: 10px;
-  }
+
+
   body {
     font-size: 100%;
     letter-spacing: 0px;
     line-height: 142%;
   }
-  .navbar-toggler {
-    margin-left: 5px;
-  }
-  h1 {
-    font-size: 28px;
-  }
+
   .img1 {
     display: none;
   }
@@ -296,16 +337,16 @@ header {
 }
 
 .cile {
-  margin-bottom: 50px;
+  margin-bottom: 3em;
 }
 .members {
-  margin-bottom: 50px;
-  margin-top: 50px;
+  margin-bottom: 3em;
+  margin-top: 3em;
 }
 .card {
   position: relative;
   display: -ms-flexbox;
-  display: flex;
+  display: inline-block;
   -ms-flex-direction: column;
   flex-direction: column;
   min-width: 0;
@@ -398,10 +439,10 @@ header {
 
 /*PRE FOOTER*/
 .cowork-logo {
-  width: 200px;
+  width: 10em;
   height: auto;
   display: inline-block;
-  margin-right: 10px;
+  margin-right: 0.4em;
 }
 
 /* FOOTER */

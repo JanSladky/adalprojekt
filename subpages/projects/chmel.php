@@ -2,7 +2,7 @@
 <main>
 	<div class="container">
 		<div class="main-content">
-			<h1 class="h1-projekty">Zachraňme Zlatý chmel!</h1>
+			<h1>Zachraňme Zlatý chmel!</h1>
 
 
 			<p class="text-left">KDE: bývalé jezírko U Zlatého chmelu <br />KDY: 23. června 2018</p>

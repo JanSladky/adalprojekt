@@ -2,7 +2,7 @@
 <main>
 	<div class="container">
 		<div class="main-content">
-			<h1 class="h1-projekty">Vzdělávací kurz SmartUp od Nadace O2</h1>
+			<h1>Vzdělávací kurz SmartUp od Nadace O2</h1>
 
 			<p class="text-left">KDE: Hotel Alfa Resort, Deštné, Orlické hory <br />KDY: 1. - 3. prosince 2017</p>
 			<p class="justify">V září 2017 jsme požádali v grantové výzvě Nadace O2 o finanční podporu našeho pilotního projektu. Tou dobou jsme uvažovali o formátu besedy - moderované akce v interiéru, kde by se diskutovala vybraná témata a později se přešlo v neformální setkání žateckých spolků a organizací. O tomto formátu jsme dost začali váhat po účasti na víkendovém kurzu osobního rozvoje, který pro vybrané týmy zajistila Nadace O2 a Prázdninová škola Lipnice. Kurz nám pomohl lépe konkretizovat náš cíl a nakonec přehodnotit celý projekt (Zachraňme Zlatý chmel), jehož další příběh je popsán výše.</p>

@@ -11,7 +11,8 @@
 				<a href="https://www.instagram.com/explore/tags/pocitovamapa/" target="_blank" class="link hashtag">#pocitovamapa</a>
 				<a href="https://www.instagram.com/explore/tags/zijmezatecspolecne/" target="_blank" class="link hashtag">#zijmezatecspolecne</a>
 			</div>
-			<a href="<?php echo $base_url; ?>/assets/image/projekty/legenda.jpg" target="_blank"><img src="<?php echo $base_url; ?>/assets/image/projekty/legenda.jpg" alt="legenda"></a>
+
+			<a href="<?php echo $base_url; ?>/assets/image/projekty/legenda.jpg" target="_blank"><img src="<?php echo $base_url; ?>/assets/image/projekty/legenda.jpg" alt="legenda" class="img"></a>
 
 
 			<button class="readmore-pocitovka-btn btn btn-dark" onclick="if ($('.readmore-pocitovka-btn').text() == 'více') {$('.readmore-pocitovka-btn').text('méně'); $('.readmore-pocitovka').slideDown(); }else {$('.readmore-pocitovka-btn').text('více'); $('.readmore-pocitovka').slideUp();}">více</button>
@@ -63,7 +64,7 @@
 			<div class="column">
 				<div class="gallery">
 					<a href="<?php echo $base_url; ?>/assets/image/projekty/pocitova_mapa/pm1.jpg" data-lightbox="mygallery" data-title="" title="Pocitová mapa">
-						<img src="<?php echo $base_url; ?>/assets/image/projekty/pocitova_mapa/pm1_small.jpg" alt="">
+						<img src="<?php echo $base_url; ?>/assets/image/projekty/pocitova_mapa/pm1_small.jpg" alt="" class="">
 					</a>
 					<a href="<?php echo $base_url; ?>/assets/image/projekty/pocitova_mapa/pm2.jpg" data-lightbox="mygallery" data-title="" title="Pocitová mapa">
 						<img src="<?php echo $base_url; ?>/assets/image/projekty/pocitova_mapa/pm2_small.jpg" alt="">

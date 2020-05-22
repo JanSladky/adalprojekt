@@ -2,7 +2,7 @@
 <main>
 	<div class="container">
 		<div class="main-content">
-			<h1 class="h1-projekty">Jarní cyklovyjížďka</h1>
+			<h1>Jarní cyklovyjížďka</h1>
 
 
 			<p class="text-left">KDE: po žateckých sídlíštích<br>

@@ -3,7 +3,7 @@
 <main>
 	<div class="container">
 		<div class="main-content">
-			<h1 class="h1-projekty">Výstava Žatecké domy</h1>
+			<h1>Výstava Žatecké domy</h1>
 			<p class="text-left">KDE: Náměstí Svobody 9, “bývalá spořitelna” <br> KDY: 16. srpna 2020 </p>
 			<p class="justify">V novodobé historii města Žatce se stalo již několikrát, že se o stavební dědictví našeho města zajímala akademická obec Fakulty architektury pražského Českého vysokého učení technického. Nejvýznamnější milníky ideových zásahů do historického centra Žatce a chmelařských objektů v Žatci a ve Stekníku jsme vystavili v prostoru bývalé spořitelny, na náměstí Svobody čp. 9.
 				Autory projektů jsou současní studenti a dnes již praktikující architekti.

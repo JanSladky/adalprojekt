@@ -2,7 +2,7 @@
 <main>
 	<div class="container">
 		<div class="main-content">
-			<h1 class="h1-projekty">Studenti Fakulty architektury v Žatci</h1>
+			<h1>Studenti Fakulty architektury v Žatci</h1>
 
 
 			<p class="text-left">KDE: Stará Papírna a restaurace U Orloje <br />KDY: říjen 2017 - únor 2018</p>
