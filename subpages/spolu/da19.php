@@ -46,7 +46,11 @@
 				</div>
 			</div>
 			<div class="mezera"></div>
-			<div class="column mapa"><a href="<?php echo $base_url; ?>/assets/image/spolu/da2019/mapa_final.pdf" target="_blank"><img src="<?php echo $base_url; ?>/assets/image/spolu/da2019/mapa_final.jpg" alt=""></a></div>
+			<div class="row">
+				<div class="column mapa">
+					<a href="<?php echo $base_url; ?>/assets/image/spolu/da2019/mapa_final.pdf" target="_blank"><img src="<?php echo $base_url; ?>/assets/image/spolu/da2019/mapa_final.jpg" alt=""></a>
+				</div>
+			</div>
 
 		</div>
 	</div>

@@ -18,6 +18,10 @@
 					"title" 	=> 	"Spolupořádané"
 				),
 				array(
+					"name" 	=> 	"dreher.php",
+					"title" 	=> 	"Dreher saaz"
+				),
+				array(
 					"name" 	=> 	"kalendar.php",
 					"title" 	=> 	"Kalendář"
 				),
@@ -25,6 +29,7 @@
 					"name" 	=> 	"media.php",
 					"title" 	=> 	"Média"
 				),
+
 				array(
 					"name" 	=> 	"blog.php",
 					"title" 	=> 	"Blog"

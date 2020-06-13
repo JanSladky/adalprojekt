@@ -6,7 +6,7 @@
         <div class="row">
 
             <div class="card project col-md-4 col-project">
-                <a href="subpages/blog/blog1.php">
+                <a href="subpages/blog/soutez.php">
                     <img class="card-img-top project-img" src="<?php echo $base_url; ?>/assets/image/blog/blog.jpg" alt="blog-image">
                     <div class="card-body">
                         <h5 class="card-title">Architektonická soutěž na revitalizaci Havlíčkova náměstí</h5>
@@ -16,7 +16,7 @@
 
 
             <div class="card project col-md-4 col-project">
-                <a href="subpages/blog/blog2.php">
+                <a href="subpages/blog/unesco.php">
                     <img class="card-img-top project-img" src="<?php echo $base_url; ?>/assets/image/blog/blog.jpg" alt="blog-image">
                     <div class="card-body">
                         <h5 class="card-title">ŽATEC A UNESCO</h5>
@@ -25,14 +25,14 @@
             </div>
 
              <div class="card project col-md-4 col-project">
-                <a href="subpages/blog/blog3.php">
+                <a href="subpages/blog/onas.php">
                     <img class="card-img-top project-img" src="<?php echo $base_url; ?>/assets/image/blog/blog.jpg" alt="blog-image">
                     <div class="card-body">
                         <h5 class="card-title">A co dál, nebo a jak dál? aneb jak vzniklo naše spolkování</h5>
                     </div>
                 </a>
             </div>
-            
+
     </div>
 
 
