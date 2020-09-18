@@ -78,6 +78,14 @@ h5 {
   display: inline-block;
   margin-right: 0.5em;
 }
+.hr {
+  background-color:  rgb(68, 63, 63);
+  height: 1px;
+  max-width: 100%;
+  margin-bottom: 50px;
+  border-radius: 6px;
+  opacity: 0.4;
+}
 .main-content {
   text-align: center;
   margin-top: 5em;

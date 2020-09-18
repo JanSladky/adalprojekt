@@ -6,7 +6,7 @@
 
 
 
-$base_url = 'http://localhost/adal/';
+$base_url = 'http://localhost/weby/adal/';
 
 
 
