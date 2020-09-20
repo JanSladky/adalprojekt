@@ -5,6 +5,16 @@
 
             <div class="row">
 
+                        
+                <div class="card project col-md-4 col-project">
+                    <a href="subpages/spolu/EHD2020.php">
+                        <img class="card-img-top project-img" src="<?php echo $base_url; ?>/assets/image/spolu/" alt="EHD" alt="Card image cap">
+                        <div class="card-body">
+                            <h5 class="card-title">Dny Evropského dědictví (EHD)</h5>
+                        </div>
+                    </a>
+                </div>
+
                 <div class="card project col-md-4 col-project">
                     <a href="subpages/spolu/da19.php">
                         <img class="card-img-top project-img" src="<?php echo $base_url; ?>/assets/image/spolu/da2019/da1.JPG" alt="fsdfsd" alt="Card image cap">
