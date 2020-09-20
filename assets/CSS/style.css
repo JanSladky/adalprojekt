@@ -57,7 +57,7 @@ h1 {
     display: flex;
 }
 .poster img {
-  max-width: 500px;
+  max-width: 50%;
     height: auto;
     border-radius: 0.5em;
 }
@@ -340,6 +340,11 @@ header {
   }
   .img2 {
     display: block;
+  }
+}
+@media screen and (max-width: 768px) {
+  .poster img {
+    max-width: 100%;
   }
 }
 
