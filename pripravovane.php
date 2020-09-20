@@ -3,7 +3,13 @@
   <div class="container">
     <div class="main-content">
 
-      <h1>Momentálně se nic nepřipravuje.</h1>
+      <h1>Den architektury 2020</h1>
+      <p class="justify">
+        Celorepublikový festival Den architektury slaví 10 let a jeho pořadatel Kruh celých dvacet. No, a my se účastníme potřetí. Tentokrát s velmi zajímavým tématem kterým jsou: PRÁZDNÉ DOMY! Společně si projdeme 4 objekty v Žatci. A kdy a kde začneme? Sraz se koná v sobotu, 3. října ve 14 hodin na Nerudově náměstí. Těšíme se!  
+      </p>
+      <div class="poster">
+        <img src="assets/image/pripravovane/DA_2020_A3.png" alt="plakát na DA2020">
+      </div>
     </div>
   </div>
 </main>
